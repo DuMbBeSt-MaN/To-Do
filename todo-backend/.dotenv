@@ -1,0 +1,12 @@
+# Database Configuration
+DATABASE_URL=postgresql://todo_list_ldpm_user:0KiDx9z5uinKXPUVCSkjoViLQJ8xnPjt@dpg-d2rh3uuuk2gs738b2fng-a.oregon-postgres.render.com/todo_list_ldpm
+DATABASE_SSL=true
+
+# Server Configuration
+PORT=3001
+NODE_ENV=development
+
+# Add other environment variables as needed
+# JWT_SECRET=your_jwt_secret_here
+# CORS_ORIGIN=http://localhost:3000
+
